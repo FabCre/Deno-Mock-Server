@@ -1,4 +1,4 @@
-import {buildJsonMockServer, HELLO_DENO} from "../basic-mock-server/index.ts";
+import { buildJsonMockServer, HELLO_DENO } from "../basic-mock-server/index.ts";
 
 buildJsonMockServer({
     serverOptions: {
